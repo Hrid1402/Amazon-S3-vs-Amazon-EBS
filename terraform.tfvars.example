@@ -1,0 +1,4 @@
+aws_profile = ""
+ebs_size     =
+aws_region   = ""
+instance_type = ""
